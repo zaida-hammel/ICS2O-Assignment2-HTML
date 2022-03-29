@@ -14,5 +14,5 @@ function calculate () {
   const perimeter = 4 * side
 
   // output
-  document.getElementById('area').innerHTML = 'The perimeter is: ' + perimeter + ' cm'
+  document.getElementById('perimeter').innerHTML = 'The perimeter is: ' + perimeter + ' cm'
 }
